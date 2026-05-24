@@ -36,3 +36,4 @@ jobs:
           org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
           -Dsonar.organization=onesiforus-rade-putra
           -Dsonar.projectKey=Onesiforus-Rade-Putra_Continuous-Inspection
+          -Dsonar.projectName=Continuous-Inspection
