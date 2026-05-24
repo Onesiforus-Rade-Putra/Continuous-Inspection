@@ -17,6 +17,7 @@ public class Counter {
 	}
 	
 	public void increaseBy(int i) {
+		int hasilsementara = count + i;
 		count+=i;
 	}
 	
